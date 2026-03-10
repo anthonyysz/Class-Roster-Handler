@@ -15,25 +15,25 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\Scripting and Programming Applications\c867_1\main.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\Scripting and Programming Applications\c867_1\roster.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\Scripting and Programming Applications\c867_1\student.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
+    <ClInclude Include="head\degree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="head\roster.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="head\student.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\Scripting and Programming Applications\c867_1\degree.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\Scripting and Programming Applications\c867_1\roster.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\Scripting and Programming Applications\c867_1\student.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
+    <ClCompile Include="source\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\roster.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\student.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

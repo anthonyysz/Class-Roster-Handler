@@ -19,14 +19,14 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\Scripting and Programming Applications\c867_1\main.cpp" />
-    <ClCompile Include="..\Scripting and Programming Applications\c867_1\roster.cpp" />
-    <ClCompile Include="..\Scripting and Programming Applications\c867_1\student.cpp" />
+    <ClInclude Include="head\degree.h" />
+    <ClInclude Include="head\roster.h" />
+    <ClInclude Include="head\student.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\Scripting and Programming Applications\c867_1\degree.h" />
-    <ClInclude Include="..\Scripting and Programming Applications\c867_1\roster.h" />
-    <ClInclude Include="..\Scripting and Programming Applications\c867_1\student.h" />
+    <ClCompile Include="source\main.cpp" />
+    <ClCompile Include="source\roster.cpp" />
+    <ClCompile Include="source\student.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
