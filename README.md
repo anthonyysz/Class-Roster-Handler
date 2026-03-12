@@ -10,5 +10,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;In my [main.cpp file](https://github.com/anthonyysz/Class-Roster-Handler/blob/master/source/main.cpp), I was able to add all the students to the roster and perform some functions to ensure the rest of the code works properly. Below shows what the console will display.
 
+![screenshot](/screenshot.png)
+
 ## 4. Looking ahead
 &nbsp;&nbsp;&nbsp;&nbsp;This project gave me my first experience in C++, and the time spent figuring this out was extraordinarily helpful. I'd like to try another project like this that instead takes the students though a user-typed input, but I'm sure when I get there I'll have expanded my programming abilities to doing bigger and better things.
